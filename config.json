@@ -1,0 +1,34 @@
+{
+    "Brokers": {
+        "Binance": {
+            "InternalName": "Binance",
+            "Key": "...",
+            "Secret": "...",
+            "RetryTimerHTTP": "1000ms"
+        },
+        "Bitrue": {
+            "InternalName": "Bitrue",
+            "Key": "...",
+            "Secret": "...",
+            "RetryTimerHTTP": "1000ms"
+        },
+        "Gate": {
+            "InternalName": "Gate",
+            "Key": "...",
+            "Secret": "...",
+            "RetryTimerHTTP": "1000ms"
+        },
+        "MEXC": {
+            "InternalName": "MEXC",
+            "Key": "...",
+            "Secret": "...",
+            "RetryTimerHTTP": "1000ms"
+        },
+        "XT": {
+            "InternalName": "XT",
+            "Key": "...",
+            "Secret": "...",
+            "RetryTimerHTTP": "1000ms"
+        }
+    }
+}
